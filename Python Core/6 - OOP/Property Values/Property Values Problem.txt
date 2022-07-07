@@ -1,0 +1,12 @@
+Complete the provided code by creating an isEven property, which returns True if the value is even, and False if the value is odd.
+class Number:
+
+    def __init__(self, num):
+
+        self.value = num
+
+
+
+x = Number(int(input()))
+
+print(x.isEven) 
