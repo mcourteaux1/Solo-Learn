@@ -1,0 +1,1 @@
+Given a list of numbers, output "bingo" if it contains the input number. 

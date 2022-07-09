@@ -1,0 +1,3 @@
+for loops allow you to easily iterate through lists.
+
+Given a list of numbers, calculate their sum using a for loop. 
