@@ -1,0 +1,3 @@
+
+We are improving our game and need to add an isAlive property, which returns True if the lives count is greater than 0.
+Complete the code by adding the isAlive property. 

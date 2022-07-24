@@ -1,0 +1,6 @@
+with open("/usercode/files/books.txt") as f:
+   i = 1
+   
+   for line in f:
+      print('Line ' + str(i) + ': ' + str(len(line.split(' '))) + ' words')
+      i+=1
